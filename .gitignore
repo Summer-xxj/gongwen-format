@@ -1,0 +1,17 @@
+# Editor and OS clutter
+.DS_Store
+Thumbs.db
+__MACOSX/
+._*
+*.tmp
+
+# Local/personal data and generated files
+_user_meta.json
+.env
+.env.*
+*.key
+*.pem
+*.docx
+*.pdf
+*.doc
+*.zip
